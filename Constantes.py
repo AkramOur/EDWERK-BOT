@@ -1,0 +1,5 @@
+ROUTER_URL = "http://192.168.100.1/"
+API_KEY    = '6438661909:AAHTmD_L_FlfJIhsNLVLiP7seXdac2oENEk'
+MOCKED_URL = "http://192.168.100.1/"
+ROUTER_USERNAME = "telecomadmin"
+ROUTER_PASSWORD = "admintelecom"
